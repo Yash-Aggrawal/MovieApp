@@ -119,7 +119,7 @@ main {
 
 .main-heading {
     position: relative;
-    right: 470px;
+    right: 450px;
 }
 
 @media (max-width: 1000px) {
